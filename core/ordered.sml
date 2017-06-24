@@ -9,6 +9,15 @@ signature EQ = sig
 end
 
 signature HASHABLE = sig
-  structure E : EQ
-  val hash : E.t -> int
+  type t
+  val eq : t * t -> bool
+  val hash : t -> int
+  val toString : t -> string
+end
+
+structure IntElem : HASHABLE = struct
+  type t = int
+  val eq = (op =) : t * t -> bool
+  val toString = Int.toString
+  val hash = ~ o ~
 end
