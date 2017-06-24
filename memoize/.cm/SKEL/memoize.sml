@@ -1,0 +1,2 @@
+Skeleton 5
+d7f1d"List"aå¢Memoize"é²áä¢C"çğ±ã¢CACHE"æ±ÿêè0ÿ-Cad"MemoizeExample"h1aä¢M"jêè±áä¢H"çğ±ä¢IntElem"çğ±å¢HashTable"gp1ÿaå¢MemoizePair"ÿad"MemoizePairExample"h1aÿjÿgp1ÿ6aå¢MemoizeMany"ÿad"MemoizeManyExample"h1aÿjÿgp1ÿ‚-N
