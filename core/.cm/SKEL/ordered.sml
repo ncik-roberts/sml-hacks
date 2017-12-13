@@ -1,2 +1,2 @@
 Skeleton 5
-d3ac"ORD"è0aã¢EQ"ÿ	ac"HASHABLE"h1ad"E"gp1ÿ
+d5Cf1d"Int"ac"ORD"è0ac"EQ"ÿaã¢HASHABLE"ÿad"IntElem"jÿgp1ÿN

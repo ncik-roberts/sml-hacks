@@ -1,13 +1,16 @@
+(* Ordered module *)
 signature ORD = sig
   type t
   val cmp : t * t -> order
 end
 
+(* Equality module *)
 signature EQ = sig
   type t
   val eq : t * t -> bool
 end
 
+(* Hash module *)
 signature HASHABLE = sig
   type t
   val eq : t * t -> bool
