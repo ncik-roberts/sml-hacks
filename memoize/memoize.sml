@@ -133,6 +133,8 @@ structure MemoizeManyExample = struct
   (*
    * "Draw" Sierpinski curve with a recurrence
    * https://en.wikipedia.org/wiki/Sierpi%C5%84ski_curve
+   *
+   * Add another comment.
    *)
   val sierpA = fn [ a, b, c, d ] =>
     fn 0 => []
